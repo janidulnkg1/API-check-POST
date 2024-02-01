@@ -1,0 +1,93 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Janidu Lankage\\Documents\\GitHub\\API-check-POST\\POST-check\\POST-check\\POST-check.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Janidu Lankage\\Documents\\GitHub\\API-check-POST\\POST-check\\POST-check\\POST-check.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Janidu Lankage\\Documents\\GitHub\\API-check-POST\\POST-check\\POST-check\\POST-check.csproj",
+        "projectName": "POST-check",
+        "projectPath": "C:\\Users\\Janidu Lankage\\Documents\\GitHub\\API-check-POST\\POST-check\\POST-check\\POST-check.csproj",
+        "packagesPath": "C:\\Users\\Janidu Lankage\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Janidu Lankage\\Documents\\GitHub\\API-check-POST\\POST-check\\POST-check\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Janidu Lankage\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://10.23.123.29/qtxnuget/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[7.0.15, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

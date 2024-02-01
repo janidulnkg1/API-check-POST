@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Qdsp5wvtYNEZbBQRiJKnDTXFxjkHsmEFpesy2aB6Zws=",
+  "Source": "POST-check",
+  "BasePath": "_content/POST-check",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
