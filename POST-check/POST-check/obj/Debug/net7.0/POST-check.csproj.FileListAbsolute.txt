@@ -36,3 +36,13 @@ C:\Users\Janidu Lankage\Documents\GitHub\API-check-POST\POST-check\POST-check\ob
 C:\Users\Janidu Lankage\Documents\GitHub\API-check-POST\POST-check\POST-check\obj\Debug\net7.0\POST-check.pdb
 C:\Users\Janidu Lankage\Documents\GitHub\API-check-POST\POST-check\POST-check\obj\Debug\net7.0\POST-check.genruntimeconfig.cache
 C:\Users\Janidu Lankage\Documents\GitHub\API-check-POST\POST-check\POST-check\obj\Debug\net7.0\ref\POST-check.dll
+C:\Users\Janidu Lankage\Documents\GitHub\API-check-POST\POST-check\POST-check\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Janidu Lankage\Documents\GitHub\API-check-POST\POST-check\POST-check\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Janidu Lankage\Documents\GitHub\API-check-POST\POST-check\POST-check\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Janidu Lankage\Documents\GitHub\API-check-POST\POST-check\POST-check\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Janidu Lankage\Documents\GitHub\API-check-POST\POST-check\POST-check\bin\Debug\net7.0\Serilog.dll
+C:\Users\Janidu Lankage\Documents\GitHub\API-check-POST\POST-check\POST-check\bin\Debug\net7.0\Serilog.Settings.Configuration.dll
+C:\Users\Janidu Lankage\Documents\GitHub\API-check-POST\POST-check\POST-check\bin\Debug\net7.0\Serilog.Sinks.File.dll
+C:\Users\Janidu Lankage\Documents\GitHub\API-check-POST\POST-check\POST-check\bin\Debug\net7.0\System.Text.Encodings.Web.dll
+C:\Users\Janidu Lankage\Documents\GitHub\API-check-POST\POST-check\POST-check\bin\Debug\net7.0\System.Text.Json.dll
+C:\Users\Janidu Lankage\Documents\GitHub\API-check-POST\POST-check\POST-check\bin\Debug\net7.0\runtimes\browser\lib\net7.0\System.Text.Encodings.Web.dll
