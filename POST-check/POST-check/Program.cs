@@ -8,6 +8,7 @@ using System;
 using System.IO;
 using System.Text;
 using System.Threading.Tasks;
+using Serilog;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -39,14 +40,17 @@ app.MapPost("/receive", async context =>
         if (!string.IsNullOrEmpty(requestBody))
         {
             dynamic json = JsonConvert.DeserializeObject(requestBody);
+            Log.Information($"Received POST request with JSON data: {JsonConvert.SerializeObject(json, Formatting.Indented)}");
             Console.WriteLine($"Received POST request with JSON data: {JsonConvert.SerializeObject(json, Formatting.Indented)}");
         }
         else
         {
+            Log.Warning("Received POST request with no JSON data.");
             Console.WriteLine("Received POST request with no JSON data.");
         }
 
         // Respond to the client
+
         await context.Response.WriteAsync("POST request received successfully");
     }
 });

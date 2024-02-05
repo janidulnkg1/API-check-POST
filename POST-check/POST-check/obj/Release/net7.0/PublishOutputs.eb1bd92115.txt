@@ -1,0 +1,16 @@
+C:\Users\Janidu Lankage\Documents\GitHub\API-check-POST\POST-check\POST-check\obj\Release\net7.0\PubTmp\Out\POST-check.exe
+C:\Users\Janidu Lankage\Documents\GitHub\API-check-POST\POST-check\POST-check\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Janidu Lankage\Documents\GitHub\API-check-POST\POST-check\POST-check\obj\Release\net7.0\PubTmp\Out\appsettings.json
+C:\Users\Janidu Lankage\Documents\GitHub\API-check-POST\POST-check\POST-check\obj\Release\net7.0\PubTmp\Out\POST-check.dll
+C:\Users\Janidu Lankage\Documents\GitHub\API-check-POST\POST-check\POST-check\obj\Release\net7.0\PubTmp\Out\POST-check.deps.json
+C:\Users\Janidu Lankage\Documents\GitHub\API-check-POST\POST-check\POST-check\obj\Release\net7.0\PubTmp\Out\POST-check.runtimeconfig.json
+C:\Users\Janidu Lankage\Documents\GitHub\API-check-POST\POST-check\POST-check\obj\Release\net7.0\PubTmp\Out\POST-check.pdb
+C:\Users\Janidu Lankage\Documents\GitHub\API-check-POST\POST-check\POST-check\obj\Release\net7.0\PubTmp\Out\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Janidu Lankage\Documents\GitHub\API-check-POST\POST-check\POST-check\obj\Release\net7.0\PubTmp\Out\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Janidu Lankage\Documents\GitHub\API-check-POST\POST-check\POST-check\obj\Release\net7.0\PubTmp\Out\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Janidu Lankage\Documents\GitHub\API-check-POST\POST-check\POST-check\obj\Release\net7.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\Janidu Lankage\Documents\GitHub\API-check-POST\POST-check\POST-check\obj\Release\net7.0\PubTmp\Out\Newtonsoft.Json.dll
+C:\Users\Janidu Lankage\Documents\GitHub\API-check-POST\POST-check\POST-check\obj\Release\net7.0\PubTmp\Out\Newtonsoft.Json.Bson.dll
+C:\Users\Janidu Lankage\Documents\GitHub\API-check-POST\POST-check\POST-check\obj\Release\net7.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Janidu Lankage\Documents\GitHub\API-check-POST\POST-check\POST-check\obj\Release\net7.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Janidu Lankage\Documents\GitHub\API-check-POST\POST-check\POST-check\obj\Release\net7.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
