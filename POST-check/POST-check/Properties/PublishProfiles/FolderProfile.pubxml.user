@@ -4,8 +4,8 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
 -->
 <Project>
   <PropertyGroup>
-    <_PublishTargetUrl>C:\Users\Janidu Lankage\Documents\GitHub\API-check-POST\POST-check\POST-check\bin\Release\net7.0\publish\</_PublishTargetUrl>
-    <History>True|2024-02-01T07:02:46.8745672Z;</History>
+    <_PublishTargetUrl>C:\Users\janid\Documents\GitHub\API-check-POST\POST-check\POST-check\bin\Release\net7.0\publish\</_PublishTargetUrl>
+    <History>True|2024-02-07T03:40:58.8379740Z;True|2024-02-01T12:32:46.8745672+05:30;</History>
     <LastFailureDetails />
   </PropertyGroup>
 </Project>

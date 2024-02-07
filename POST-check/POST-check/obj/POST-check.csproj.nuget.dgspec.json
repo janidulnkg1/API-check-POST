@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Janidu Lankage\\Documents\\GitHub\\API-check-POST\\POST-check\\POST-check\\POST-check.csproj": {}
+    "C:\\Users\\janid\\Documents\\GitHub\\API-check-POST\\POST-check\\POST-check\\POST-check.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Janidu Lankage\\Documents\\GitHub\\API-check-POST\\POST-check\\POST-check\\POST-check.csproj": {
+    "C:\\Users\\janid\\Documents\\GitHub\\API-check-POST\\POST-check\\POST-check\\POST-check.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Janidu Lankage\\Documents\\GitHub\\API-check-POST\\POST-check\\POST-check\\POST-check.csproj",
+        "projectUniqueName": "C:\\Users\\janid\\Documents\\GitHub\\API-check-POST\\POST-check\\POST-check\\POST-check.csproj",
         "projectName": "POST-check",
-        "projectPath": "C:\\Users\\Janidu Lankage\\Documents\\GitHub\\API-check-POST\\POST-check\\POST-check\\POST-check.csproj",
-        "packagesPath": "C:\\Users\\Janidu Lankage\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Janidu Lankage\\Documents\\GitHub\\API-check-POST\\POST-check\\POST-check\\obj\\",
+        "projectPath": "C:\\Users\\janid\\Documents\\GitHub\\API-check-POST\\POST-check\\POST-check\\POST-check.csproj",
+        "packagesPath": "C:\\Users\\janid\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\janid\\Documents\\GitHub\\API-check-POST\\POST-check\\POST-check\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Janidu Lankage\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\janid\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "http://10.23.123.29/qtxnuget/nuget": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -97,7 +96,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

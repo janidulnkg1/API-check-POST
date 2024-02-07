@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("POST-check")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6805adccd343a5afa7389b439081cbca2a4884d9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7363565e4b5a632b6057ded7cf94e2a0bab6524c")]
 [assembly: System.Reflection.AssemblyProductAttribute("POST-check")]
 [assembly: System.Reflection.AssemblyTitleAttribute("POST-check")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
